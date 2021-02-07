@@ -1,0 +1,15 @@
+record 1
+(Student number)        123456
+(Tuition owed)          100000
+(Student Name)          INDIAN OCEAN
+
+record 2
+(Student number)        123457
+(Tuition owed)          100001
+(Student Name)          SOUTH ATLANTIC
+
+record 3
+(Student number)        123458
+(Tuition owed)          100002
+(Student Name)          PACIFIC OCEAN
+
